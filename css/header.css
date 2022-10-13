@@ -3,17 +3,19 @@ header{
     background-color: var(--first-color-light);
     display: flex;
     align-items: center;
-    padding: 10px 0;
+   
 }
 
 header img{
-    width: 3.4375rem; 
+    width: 3.125rem ; 
+    
 }
 
 header .row{
     background-color: white;
+    display: flex;
+    align-items: center;
 }
-/* DEBUG */
 
 
 
