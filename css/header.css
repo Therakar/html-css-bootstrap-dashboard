@@ -1,4 +1,23 @@
 header{
     height: 4.375rem;
-    background-color: lightblue;
+    background-color: var(--first-color-light);
+    display: flex;
+    align-items: center;
 }
+
+/* DEBUG */
+header .col-2{
+    background-color: blue;
+}
+
+header .col-1{
+    background-color: blue;
+}
+
+header .col-9{
+    background-color: violet;
+}
+
+    
+  
+
