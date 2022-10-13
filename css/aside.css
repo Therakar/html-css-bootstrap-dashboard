@@ -1,0 +1,6 @@
+aside{
+    width: auto;
+    flex-shrink: 0;
+    padding: 1.875rem 1.25rem;
+    background-color: antiquewhite;
+}
