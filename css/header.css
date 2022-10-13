@@ -3,20 +3,21 @@ header{
     background-color: var(--first-color-light);
     display: flex;
     align-items: center;
+    padding: 10px 0;
 }
 
+header img{
+    width: 3.4375rem; 
+}
+
+header .row{
+    background-color: white;
+}
 /* DEBUG */
-header .col-2{
-    background-color: blue;
-}
 
-header .col-1{
-    background-color: blue;
-}
 
-header .col-9{
-    background-color: violet;
-}
+
+
 
     
   
