@@ -4,4 +4,5 @@ body{
 
 .fa-bell{
     color: var(--third-color);
+    font-size: 20px;
 }

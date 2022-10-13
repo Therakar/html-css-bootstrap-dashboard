@@ -8,7 +8,10 @@ header{
 
 header img{
     width: 3.125rem ; 
-    
+}
+
+.img-logo{
+    width: 90%;
 }
 
 header .row{
