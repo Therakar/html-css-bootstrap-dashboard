@@ -1,3 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+.fa-bell{
+    color: var(--third-color);
+}
