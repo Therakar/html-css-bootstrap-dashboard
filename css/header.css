@@ -7,11 +7,11 @@ header{
 }
 
 header img{
-    width: 3.125rem ; 
+    width: 85% ; 
 }
 
 .img-logo{
-    width: 90%;
+    width: 85%;
 }
 
 header .row{
@@ -20,7 +20,11 @@ header .row{
     align-items: center;
 }
 
-
+header ul{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
 
 
 

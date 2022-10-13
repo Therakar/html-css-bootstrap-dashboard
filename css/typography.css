@@ -2,7 +2,12 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-.fa-bell{
+.header-icon{
+    font-size: 18px;
+    padding-right: 15px;
+    color: var(--first-color-darker);
+}
+
+.header-icon:last-of-type{
     color: var(--third-color);
-    font-size: 20px;
 }
