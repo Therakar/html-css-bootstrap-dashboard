@@ -7,3 +7,7 @@
     background-color: transparent;
     padding-right: 5px ;
 }
+
+.ms-width-auto{
+    width: auto;
+}
