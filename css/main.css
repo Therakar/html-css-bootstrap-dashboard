@@ -9,7 +9,7 @@ main{
 .ms-hero{
     background-color: var(--second-color-light);
     width: 100%;
-    height: auto;
+    
     color: white;
     padding-top: 13px;
     padding-bottom: 13px;
@@ -24,3 +24,17 @@ main{
 }
 
 /* CARDS */
+
+.ms-card-header{
+    background-color: var(--first-color);
+}
+
+
+
+
+
+
+
+
+
+
