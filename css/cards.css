@@ -1,0 +1,23 @@
+.ms-card-header{
+    background-color: var(--first-color);
+}
+
+.classes-card img{
+    width: 40px;
+    padding-right: 10px;
+}
+
+table th{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+table td, table th:not(:first-of-type){
+    font-size: 15px;
+    text-align: center;
+}
+
+.ms-color-white{
+    color: white;
+}
+

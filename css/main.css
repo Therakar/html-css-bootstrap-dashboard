@@ -23,29 +23,7 @@ main{
     border-radius: 15px;
 }
 
-/* CARDS */
 
-.ms-card-header{
-    background-color: var(--first-color);
-}
-
-.classes-card img{
-    width: 40px;
-    padding-right: 10px;
-}
-
-table th{
-    font-size: 15px;
-    font-weight: 500;
-}
-
-table td{
-    font-size: 15px;
-}
-
-.ms-color-white{
-    color: white;
-}
 
 
 

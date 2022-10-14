@@ -16,3 +16,20 @@ header .ms-input{
     padding-right: 0;
 }
 
+.btn-class{
+    border: 1px solid var(--second-color-light);
+    color: var(--second-color-light);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.btn-action{
+    background-color: transparent;
+    border: 1px solid var(--first-color-darker);
+    color: var(--first-color-darker);
+    border-radius: 5px;
+}
+
+.btn-action:first-of-type{
+    margin-right: 5px;
+}
