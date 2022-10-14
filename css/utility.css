@@ -2,3 +2,8 @@
     display: flex;
     height: calc(100vh - 70px);
 }
+
+.no-background{
+    background-color: transparent;
+    padding-right: 5px ;
+}

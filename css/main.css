@@ -9,11 +9,18 @@ main{
 .ms-hero{
     background-color: var(--second-color-light);
     width: 100%;
+    height: auto;
     color: white;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 13px;
+    padding-bottom: 13px;
 }
 
-
+.ms-badge{
+    font-size: 13px;
+    font-weight: 500;
+    background-color: rgba(0,0,0,0.2);
+    padding: 5px 10px;
+    border-radius: 15px;
+}
 
 /* CARDS */

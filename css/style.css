@@ -1,4 +1,3 @@
-@import "utility.css";
 @import "palette.css";
 @import "typography.css";
 @import "interactive.css";
@@ -6,3 +5,4 @@
 @import "aside.css";
 @import "main.css";
 @import "cards.css";
+@import "utility.css";
