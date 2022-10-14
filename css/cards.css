@@ -2,6 +2,7 @@
     background-color: var(--first-color);
 }
 
+/* NEXT CLASSES CARD */
 .classes-card img{
     width: 40px;
     padding-right: 10px;
@@ -17,7 +18,12 @@ table td, table th:not(:first-of-type){
     text-align: center;
 }
 
-.ms-color-white{
-    color: white;
+.badge{
+    font-size: 14px;
 }
 
+/* F.A.Q CARD */
+.accordion-item button{
+    font-size: 18px;
+    font-weight: 500;
+}
