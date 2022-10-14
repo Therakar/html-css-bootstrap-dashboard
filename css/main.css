@@ -1,5 +1,19 @@
+/* MAIN */
 main{
     flex-grow: 1;
     overflow-y: auto;
-    background-color:blueviolet;
+    background-color: var(--first-color-light);
 }
+
+/* HERO */
+.ms-hero{
+    background-color: var(--second-color-light);
+    width: 100%;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+/* CARDS */

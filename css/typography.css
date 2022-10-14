@@ -12,7 +12,3 @@ body{
 .header-icon:last-of-type{
     color: var(--third-color);
 }
-
-.ms-width{
-   min-width:20px;
-}
