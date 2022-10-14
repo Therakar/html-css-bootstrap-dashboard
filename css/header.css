@@ -6,12 +6,12 @@ header{
    
 }
 
-header img{
-    width: 85% ; 
+.img-logo-mobile{
+    height: 70px;
 }
 
 .img-logo{
-    width: 85%;
+    height: 60px;
 }
 
 header .row{
