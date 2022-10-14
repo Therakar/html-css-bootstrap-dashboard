@@ -14,13 +14,16 @@ aside{
 
 .nav-top a, .nav-bottom a{
     color: white;
-    font-size: 20px;
+    font-size: 19px;
     text-decoration: none;
+}
+
+.nav-top-link{
+    margin-bottom: 10px;
 }
 
 .nav-top-link, .nav-bottom-link{
     padding-left: 20px;
-    
 }
 
 .ms-width{
