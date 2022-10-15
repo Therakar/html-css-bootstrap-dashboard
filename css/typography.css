@@ -9,7 +9,7 @@ body{
     color: var(--first-color-darker);
 }
 
-.header-icon:last-of-type{
+.ms-bell-icon{
     color: var(--third-color);
 }
 
