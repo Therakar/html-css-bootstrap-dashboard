@@ -34,7 +34,12 @@ table td, table th:not(:first-of-type){
 }
 
 .table-to-do{
+    border: 1px solid var(--first-color-dark); 
+    font-weight: 500;
+}
+
+/* GRAFIC CARD */
+.table-grafic{
     border: 1px solid var(--first-color-dark);
-    border-radius: 10px; 
     font-weight: 500;
 }
