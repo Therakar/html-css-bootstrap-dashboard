@@ -12,3 +12,16 @@ body{
 .header-icon:last-of-type{
     color: var(--third-color);
 }
+
+
+/* MAIN */
+
+/* f.a.q card */
+.accordion-item button{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.accordion-body{
+    font-size: 18px;
+}

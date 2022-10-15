@@ -23,7 +23,9 @@ table td, table th:not(:first-of-type){
 }
 
 /* F.A.Q CARD */
-.accordion-item button{
+.accordion-item button, .accordion-body {
     font-size: 18px;
     font-weight: 500;
 }
+
+/* TO DO CARD */
