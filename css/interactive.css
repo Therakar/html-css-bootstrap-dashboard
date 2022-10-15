@@ -1,5 +1,6 @@
 
 /* HEADER */
+/* SEARCH BAR */
 header .ms-input{
     width: 100%;
     height: 40px;
@@ -16,6 +17,7 @@ header .ms-input{
     padding-right: 0;
 }
 
+/* BUTTONS */
 .btn-class{
     border: 1px solid var(--second-color-light);
     color: var(--second-color-light);
@@ -33,3 +35,4 @@ header .ms-input{
 .btn-action:first-of-type{
     margin-right: 5px;
 }
+
