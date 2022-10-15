@@ -36,3 +36,35 @@ header .ms-input{
     margin-right: 5px;
 }
 
+.btn-offcanvas{
+    padding: 7px 15px;
+    border: 1px solid;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.btn-blue{
+    background-color: #0D6EFD;
+    border: #0D6EFD;
+    color: white;
+}
+
+.btn-yellow{
+    background-color: #FFC107;
+    border: #FFC107;
+}
+
+/* INPUTS OFFCANVAS*/
+
+.offcanvas input{
+    width: 100%;
+    padding: 5px 10px;
+    border: 1px solid var(--first-color-dark);
+    border-radius: 5px;
+    color: var(--first-color-darker);
+    margin-bottom: 15px;
+}
+
+.offcanvas label{
+    margin-bottom: 5px;
+}
