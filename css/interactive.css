@@ -21,6 +21,11 @@ header .ms-input{
     padding-right: 0;
 }
 
+.header-icon:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
 /* HERO */
 .ms-badge:hover{
     cursor: pointer;
@@ -87,7 +92,10 @@ header .ms-input{
     border: #FFC107;
 }
 
-/* INPUTS OFFCANVAS*/
+/* INPUTS*/
+input{
+    cursor: pointer;
+}
 
 .offcanvas input{
     width: 100%;
@@ -101,3 +109,4 @@ header .ms-input{
 .offcanvas label{
     margin-bottom: 5px;
 }
+
