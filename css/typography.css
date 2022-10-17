@@ -13,9 +13,7 @@ body{
     color: var(--third-color);
 }
 
-
 /* MAIN */
-
 /* f.a.q card */
 .accordion-item button{
     font-size: 18px;

@@ -18,12 +18,22 @@ aside{
     text-decoration: none;
 }
 
+.nav-top li{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
 .nav-top-link{
     margin-bottom: 10px;
 }
 
 .nav-top-link, .nav-bottom-link{
     padding-left: 20px;
+    margin-bottom: 0;
+}
+
+.nav-bottom{
+    padding: 5px;
 }
 
 .ms-icon-width{

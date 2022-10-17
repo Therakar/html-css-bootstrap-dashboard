@@ -1,6 +1,10 @@
 
 /* HEADER */
 /* SEARCH BAR */
+.img-logo:hover, .img-logo-mobile:hover{
+    cursor: pointer;
+}
+
 header .ms-input{
     width: 100%;
     height: 40px;
@@ -17,14 +21,32 @@ header .ms-input{
     padding-right: 0;
 }
 
+/* HERO */
+.ms-badge:hover{
+    cursor: pointer;
+}
+
+/* ASIDE */
+.nav-top li:hover, .nav-bottom:hover{
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
 /* BUTTONS */
+/* btn new class */
 .btn-class{
+    background-color: transparent;
     border: 1px solid var(--second-color-light);
     color: var(--second-color-light);
     padding: 10px 15px;
     border-radius: 5px;
 }
 
+.btn-class:hover{
+    background-color: var(--second-color-light);
+    color: var(--first-color-dark);
+}
+
+/* btn actions */
 .btn-action{
     background-color: transparent;
     border: 1px solid var(--first-color-darker);
@@ -32,15 +54,26 @@ header .ms-input{
     border-radius: 5px;
 }
 
+.btn-action:hover{
+    background-color: var(--first-color-darker);
+    color: var(--first-color-dark);
+}
+
 .btn-action:first-of-type{
     margin-right: 5px;
 }
 
+/* offcanvas btn */
 .btn-offcanvas{
     padding: 7px 15px;
     border: 1px solid;
     border-radius: 5px;
     font-weight: 500;
+}
+
+.btn-offcanvas:hover{
+    transform: scale(0.95);
+    filter: grayscale(0.5);
 }
 
 .btn-blue{
